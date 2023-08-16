@@ -20,8 +20,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
-**14 Juni 2021**  
-* Mengikuti National onboarding di YT
-
-**15 Juni 2021**  
-* Mengikuti bangkit onboarding session
+**14 Juni 2021**
+Mengikuti National onboarding di YT
